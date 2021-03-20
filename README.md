@@ -1,2 +1,2 @@
-# Cocuklar-icin-bolme-oyunu
-Division Game For Kids
+# Cocuklar icin bolme oyunu
+# Division Game For Kids
